@@ -1,0 +1,56 @@
+{
+    "entities": [
+      {
+        "id": "1",
+        "cname": "Central line",
+        "whitelist": ["C line", "Cen line", "Cent line", "Central"]
+      },
+      {
+        "id": "2",
+        "cname": "District line",
+        "whitelist": ["District", "Dis"]
+      },
+      {
+        "id": "3",
+        "cname": "Circle line",
+        "whitelist": ["Circle"]
+      },
+      {
+        "id": "4",
+        "cname": "Piccadilly line",
+        "whitelist": ["Piccadilly"]
+      },
+      {
+        "id": "5",
+        "cname": "Waterloo-City line",
+        "whitelist": ["Waterloo-City", "Waterloo and City", "Waterloo City"]
+      },
+      {
+        "id": "6",
+        "cname": "Bakerloo line",
+        "whitelist": ["Bakerloo"]
+      },
+      {
+        "id": "7",
+        "cname": "Hammersmith-City line",
+        "whitelist": ["Hammersmith-City", "Hammersmith and City", "Hammersmith City"]
+      },
+      {
+        "id": "8",
+        "cname": "Metropolitan line",
+        "whitelist": ["Metropolitan"]
+      },
+      {
+        "id": "9",
+        "cname": "Victoria line",
+        "whitelist": ["Victoria"]
+      },
+      {
+        "id": "10",
+        "cname": "Northern line",
+        "whitelist": ["Northern"]
+      }
+    ]
+  }
+  
+  
