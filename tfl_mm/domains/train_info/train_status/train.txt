@@ -1,30 +1,30 @@
-OK, tell me Central line status 
-OK, tell me District line status 
-OK, tell me Circle line status?
-OK, tell me Piccadilly line status?
-OK, tell me Waterloo-City line status?
-OK, tell me Bakerloo line status 
-OK, tell me Hammersmith-City line status 
-OK, tell me Metropolitan line status 
-OK, tell me Victoria line status 
-OK, tell me Northern line status 
-tell me Central line status 
-tell me District line status 
-tell me Circle line status 
-tell me Piccadilly line status 
-tell me Waterloo-City line status 
-tell me Bakerloo line status 
-tell me Hammersmith-City line status 
-tell me Metropolitan line status 
-tell me Victoria line status 
-tell me Northern line status 
-what is Central line status 
-what is District line status 
-what is Circle line status 
-what is Piccadilly line status 
-what is Waterloo-City line status 
-what is Bakerloo line status 
-what is Hammersmith-City line status 
-what is Metropolitan line status 
-what is Victoria line status 
-what is Northern line status
+OK, tell me {Central line|train_name} status
+OK, tell me {District line|train_name} status
+OK, tell me {Circle line|train_name} status?
+OK, tell me {Piccadilly line|train_name} status?
+OK, tell me {Waterloo-City line|train_name} status?
+OK, tell me {Bakerloo line|train_name} status
+OK, tell me {Hammersmith-City line|train_name} status
+OK, tell me {Metropolitan line|train_name} status
+OK, tell me {Victoria line|train_name} status
+OK, tell me {Northern line|train_name} status
+tell me {Central line|train_name} status
+tell me {District line|train_name} status
+tell me {Circle line|train_name} status
+tell me {Piccadilly line|train_name} status
+tell me {Waterloo-City line|train_name} status
+tell me {Bakerloo line|train_name} status
+tell me {Hammersmith-City line|train_name} status
+tell me {Metropolitan line|train_name} status
+tell me {Victoria line|train_name} status
+tell me {Northern line|train_name} status
+what is {Central line|train_name} status
+what is {District line|train_name} status
+what is {Circle line|train_name} status
+what is {Piccadilly line|train_name} status
+what is {Waterloo-City line|train_name} status
+what is {Bakerloo line|train_name} status
+what is {Hammersmith-City line|train_name} status
+what is {Metropolitan line|train_name} status
+what is {Victoria line|train_name} status
+what is {Northern line|train_name} status
